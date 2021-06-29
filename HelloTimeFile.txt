@@ -13,5 +13,10 @@ Function HelloWorld() {
 	return 0;
 }
 
+Function Main() {
+	HelloWorld();
+	
+	return 0;
+}
 
 
