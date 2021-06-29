@@ -3,3 +3,15 @@ The time is 4:38
 my dude the time is actually 4:43
 
 My guy, the time is 4:48
+
+
+
+Function HelloWorld() {
+	println("Hello World");
+	println("Bryan is the Best);
+
+	return 0;
+}
+
+
+
